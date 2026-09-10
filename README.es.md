@@ -1,8 +1,8 @@
-# Localización de n8n — Paquete de idioma en chino y español
+# Localización de n8n — Paquete de idioma en chino, español y ruso
 
-Documentación: [English](README.md) | [简体中文](README.zh-CN.md) | Español
+Documentación: [English](README.md) | [简体中文](README.zh-CN.md) | Español | [Русский](README.ru.md)
 
-Localización de la interfaz para instalaciones autohospedadas de n8n. Incluye chino simplificado (`zh-CN`), chino tradicional (`zh-TW`) y español (`es`). Este proyecto proporciona traducciones y un instalador reversible; no incluye, instala ni redistribuye n8n.
+Localización de la interfaz para instalaciones autohospedadas de n8n. Incluye chino simplificado (`zh-CN`), chino tradicional (`zh-TW`), español (`es`) y ruso (`ru`). Este proyecto proporciona traducciones y un instalador reversible; no incluye, instala ni redistribuye n8n.
 
 ## Paquetes de idioma disponibles
 
@@ -11,6 +11,7 @@ Localización de la interfaz para instalaciones autohospedadas de n8n. Incluye c
 | `zh-CN` | Chino simplificado | Completo | n8n 2.34.6 |
 | `zh-TW` | Chino tradicional (Taiwán) | Vista previa | n8n 2.34.6 |
 | `es` | Español | Vista previa | n8n 2.34.6 |
+| `ru` | Ruso | Vista previa | n8n 2.34.6 |
 
 Los idiomas en vista previa tienen cobertura automatizada completa de las claves y superan las pruebas del instalador, pero aún necesitan una revisión de la interfaz real por parte de hablantes competentes. Los idiomas previstos y sus criterios de publicación se detallan en la [hoja de ruta de localización](ROADMAP.md).
 
