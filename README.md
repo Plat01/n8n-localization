@@ -8,10 +8,12 @@ Interface localization for existing self-hosted n8n installations, including Sim
 
 | Locale | Language | Status | Full baseline |
 | --- | --- | --- | --- |
-| `zh-CN` | Simplified Chinese | Complete | n8n 2.34.6 |
-| `zh-TW` | Traditional Chinese (Taiwan) | Preview | n8n 2.34.6 |
-| `es` | Spanish | Preview | n8n 2.34.6 |
+| `zh-CN` | Simplified Chinese | Complete | n8n 2.38.6 |
+| `zh-TW` | Traditional Chinese (Taiwan) | Preview | n8n 2.38.6 |
+| `es` | Spanish | Preview | n8n 2.38.6 |
 | `ru` | Russian | Preview | n8n 2.34.6 |
+
+Russian preview retains the n8n 2.34.6 translation baseline; the 883 keys added for n8n 2.38.6 are included as explicit English fallbacks pending translation.
 
 Preview locales have full automated key coverage and pass installer validation, but still need proficient-speaker review in the live n8n interface. Planned locales and their release gates are tracked in the [localization roadmap](ROADMAP.md).
 

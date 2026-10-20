@@ -8,10 +8,12 @@ Localización de la interfaz para instalaciones autohospedadas de n8n. Incluye c
 
 | Código | Idioma | Estado | Versión base completa |
 | --- | --- | --- | --- |
-| `zh-CN` | Chino simplificado | Completo | n8n 2.34.6 |
-| `zh-TW` | Chino tradicional (Taiwán) | Vista previa | n8n 2.34.6 |
-| `es` | Español | Vista previa | n8n 2.34.6 |
+| `zh-CN` | Chino simplificado | Completo | n8n 2.38.6 |
+| `zh-TW` | Chino tradicional (Taiwán) | Vista previa | n8n 2.38.6 |
+| `es` | Español | Vista previa | n8n 2.38.6 |
 | `ru` | Ruso | Vista previa | n8n 2.34.6 |
+
+La vista previa en ruso mantiene la base de traducción de n8n 2.34.6; las 883 claves añadidas para n8n 2.38.6 se incluyen en inglés, pendientes de traducción.
 
 Los idiomas en vista previa tienen cobertura automatizada completa de las claves y superan las pruebas del instalador, pero aún necesitan una revisión de la interfaz real por parte de hablantes competentes. Los idiomas previstos y sus criterios de publicación se detallan en la [hoja de ruta de localización](ROADMAP.md).
 

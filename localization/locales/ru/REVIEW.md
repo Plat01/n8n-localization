@@ -29,3 +29,7 @@ Two areas deserve particular attention from the first native reviewer:
 - **Grammatical case around protected tokens.** `URL`, `Webhook`, `API` and similar terms stay in Latin script and do not decline, so surrounding wording was chosen to stay grammatical without them.
 
 The locale may be distributed only as a clearly labeled preview until that UI review is complete.
+
+## Integration with current main
+
+The Russian translation baseline remains n8n 2.34.6. The 883 keys added upstream for n8n 2.38.6 are included in `parts/n8n_2_38_6.json` with English values, pending Russian translation. This preserves the shared key inventory without presenting untranslated strings as reviewed Russian. The original review and generation statements above describe the 2.34.6 candidate.
